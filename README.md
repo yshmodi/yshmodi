@@ -23,8 +23,7 @@ Excited to explore how different technologies can come together to create compre
 
 **Contact:**
 
-LinkedIn: https://www.linkedin.com/in/yshmodi/
-
-Twitter: https://twitter.com/yshmodi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yshmodi/) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/yshmodi)
 
 Hit me up, let's team up and tackle some coding challenges together! 🤝✨
